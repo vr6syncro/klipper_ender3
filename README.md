@@ -11,3 +11,6 @@ Check serial port. ls /dev/serial/by-id/*
 change following settings for your setup:
 - step_distance
 - pressure_advance if used
+
+
+https://www.klipper3d.org/Installation.html
