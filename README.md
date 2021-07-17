@@ -3,6 +3,8 @@
 - BL Touch
 - ADXL345 Sensor
 - uses kiauh config folder
+- Hero Me Gen5
+- Micro Swiss Direkt Drive and MK8 Extruder 
 
 ---
 
